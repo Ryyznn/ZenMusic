@@ -146,12 +146,14 @@ STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
 
 
-#     ____  _______  __ ___       __  _____  _______ __________
-#    / __ \/ ____/ |/ //   |     /  |/  / / / / ___//  _/ ____/
-#   / /_/ / __/  |   // /| |    / /|_/ / / / /\__ \ / // /     
-#  / _, _/ /___ /   |/ ___ |   / /  / / /_/ /___/ // // /___   
-# /_/ |_/_____//_/|_/_/  |_|  /_/  /_/\____//____/___/\____/   
-                                                             
+
+#   ______  _____ ____   ___       ___  _____  _______ __________
+#  /____  \/ ____//   |  / /      /  |/  / / / / ___//  _/ ____/
+#    /  / / __/  / /| | / /      / /|_/ / / / /\__ \ / // /     
+#  /  /__/ /___ / / | |/ /      / /  / / /_/ /___/ // // /___   
+#/______/_____//__\ |___/      /_/  /_/\____//____/___/\____/   
+ 
+    
 
 ### DONT TOUCH or EDIT codes after this line
 BANNED_USERS = filters.user()
@@ -192,12 +194,12 @@ STATS_IMG_URL = getenv(
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "assets/Audio.jpeg",
+    "https://telegra.ph//file/e51f0508cc4b0ac7c4ae4.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "assets/Video.jpeg",
+    "https://telegra.ph//file/e51f0508cc4b0ac7c4ae4.jpg",
 )
 
 STREAM_IMG_URL = getenv(
