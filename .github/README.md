@@ -2,8 +2,8 @@
   <b>Zen Music Player</b>
 <h4>
 
-!["center"]
-(https://telegra.ph//file/e51f0508cc4b0ac7c4ae4.jpg)
+![](https://telegra.ph//file/e51f0508cc4b0ac7c4ae4.jpg)
+
 
 <h4 align="center">
      BASE REPO YUKKI MUSIC BOT SAYA HANYA CLONING, MERUBAH / ATAU MENAMBAH BAHASA INDONESIA SUNDA, JAWA, & TOXIC
