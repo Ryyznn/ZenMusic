@@ -1,12 +1,18 @@
-![](https://github.com/Rexashh/YukkiRexa/blob/master/d958bb05418639f7ebe67755900f5ad0.gif)
+<h1 align="center">
+  <b>Zen Music Player</b>
+<h4>
+
+!["center"]
+(https://telegra.ph//file/e51f0508cc4b0ac7c4ae4.jpg)
 
 <h4 align="center">
      BASE REPO YUKKI MUSIC BOT SAYA HANYA CLONING, MERUBAH / ATAU MENAMBAH BAHASA INDONESIA SUNDA, JAWA, & TOXIC
 </h4>
 
-
+<h1 align="center">
+  <b>Zen Music</b>
     
-# YUKKI REXA
+</h4>
 
 <details>
 <summary><b>🚀 CONFIG VARS </b></summary>
@@ -54,27 +60,33 @@
 - Jalankan bot ketik :
 `bash start`
 
-### ᴏᴋᴛᴇᴛᴏ
-- Fork Repository ini 
-- Klik [OKTETO](https://www.okteto.com)
-- Masukan Var dan data mu, untuk melihat var apa saja yang ada silahkan klik dibawah
-- [List Variable](https://github.com/Rexashh/YukkiRexa/blob/master/config/README.md)
-
-### ʟɪsᴛ ᴘᴇʀɪɴᴛᴀʜ
-- Klik [disini](https://github.com/Rexashh/YukkiRexa/blob/master/strings/command.yml) untuk melihat semua perintah pada bot music
-
-</details>
-
 <details>
 <summary><b>🚀 CONTACT & SPECIAL THANKS</b></summary>
 
 ## ᴄᴏɴᴛᴀᴄᴛ
-- [ᴄʜᴀɴɴᴇʟ](https://t.me/tirexgugel)
-- [ɢʀᴏᴜᴘ](https://t.me/rexaprivateroom)
-- [ᴏᴡɴᴇʀ](https://t.me/JustRex)
+- [ᴄʜᴀɴɴᴇʟ](https://t.me/zarchxyz)
+- [ᴏᴡɴᴇʀ](https://t.me/zenfavgrls)
 
 ## sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs
 
 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴜɴᴛᴜᴋ ᴛᴇᴀᴍ ʏᴜᴋᴋɪ sᴇʙᴀɢᴀɪ ʙᴀsᴇ ᴅᴀʀɪ ʀᴇᴘᴏ ɪɴɪ:
 
 - [TeamYukki](https://github.com/TeamYukki)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
