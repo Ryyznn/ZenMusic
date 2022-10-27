@@ -28,7 +28,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(
-    getenv("DURATION_LIMIT", "120")
+    getenv("DURATION_LIMIT", "180")
 )  # Remember to give value in Minutes
 
 # Duration Limit for downloading Songs in MP3 or MP4 format from bot
@@ -47,9 +47,9 @@ OWNER_ID = list(
     map(int, getenv("OWNER_ID", "").split())
 )  # Input type must be interger
 
-# JANGAN HAPUS YA KONTOL
-OWNER_ID.append(1224143544)
-OWNER_ID.append(2012224978)
+
+
+
 
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -69,7 +69,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", None
+    "https://t.me/zarchxyz", None
 )  # Example:- https://t.me/tirexgugel
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", None
@@ -168,11 +168,11 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/abcd750ea55ec0b2d817e.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph//file/e51f0508cc4b0ac7c4ae4.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "assets/Ping.jpeg",
+    "https://telegra.ph//file/e51f0508cc4b0ac7c4ae4.jpgg",
 )
 
 PLAYLIST_IMG_URL = getenv(
