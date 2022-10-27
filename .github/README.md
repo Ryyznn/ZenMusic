@@ -2,7 +2,9 @@
   <b>Zen Music Player</b>
 <h4>
 
-![](https://telegra.ph//file/e51f0508cc4b0ac7c4ae4.jpg)
+<p align="center">
+  <img src="https://telegra.ph//file/e51f0508cc4b0ac7c4ae4.jpg">
+</p>
 
 
 <h4 align="center">
